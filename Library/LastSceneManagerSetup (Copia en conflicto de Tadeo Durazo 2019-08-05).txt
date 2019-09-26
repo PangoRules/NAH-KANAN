@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/Palenque/Lvl1/PalenqueLvl1.unity
+  isLoaded: 1
+  isActive: 1
